@@ -3,5 +3,6 @@ Solving Stokes equations using P1 Finite Element Method. http://fc.isima.fr/~jko
 
 Just some minor changes comparing to original code.
 
-2D version: demo2d.m
-3D        : demo3d.m
+* 2D version: demo2d.m
+
+* 3D        : demo3d.m
